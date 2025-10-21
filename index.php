@@ -36,8 +36,6 @@ a:hover {
 <a href="punto6.php">6 -Variables de tipo string</a>
 <a href="punto7.php">7 -Estructura condicional (if)</a>
 <a href="punto8.php">8 -Estructuras repetitivas</a>
-<a href="punto9.php">9 -Envío de datos de un FORMULARIO </a>
-<a href="punto10.php">10 - FORMULARIO (control radio)</a>
 
 </div>
 </body>
